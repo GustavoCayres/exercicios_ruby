@@ -1,3 +1,8 @@
+=begin
+Gustavo Rodrigues Cayres Silva, nº 8584323
+Pedro Marcondes, nº 8941168
+=end
+
 module FunWithStrings
   def palindrome?
     word = self.downcase[/\w*/]
